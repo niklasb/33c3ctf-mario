@@ -1,0 +1,10 @@
+/*.tar.xz
+/ram.bin
+/pwnlib
+/*.ova
+.gdb*
+peda-*
+*.o
+*.lo
+*.pyc
+/out.spc
